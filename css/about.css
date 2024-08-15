@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-shadow: border-box;
+}
+
+.vl {
+    border-left: 6px solid rgb(206, 158, 48);
+    height: 185px;
+    position: absolute;
+    left: 0%;
+    margin-left: -3px;
+    top: 0;
+  }
+
+h3 {
+  color: orange;
+  font-weight: bold;
+  font-family: serif;
+  text-decoration: underline;
+}
+
+
+.dev-pic {
+  width: 85%;
+  border-radius: 50%;
+}
+
+h5 {
+  padding-top: 15px;
+  font-weight: bold;
+}
+
+
+@media(max-width: 560px){
+
+  .dev-pic{
+    width: 65%;
+    border-radius: 50%;
+  }
+}
+
