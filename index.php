@@ -3,7 +3,7 @@
 
 <head>
 
-Citadel PRISMS Business centre,4th floor 401 near Besant PU college pvs Kalakunja road Kodiabail Mangalore 575003.
+<!-- Citadel PRISMS Business centre,4th floor 401 near Besant PU college pvs Kalakunja road Kodiabail Mangalore 575003. -->
 
 
 
